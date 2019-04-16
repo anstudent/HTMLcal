@@ -1,0 +1,14 @@
+body {
+  background-color: gray;
+}
+h1 {
+  color: #FFFFFF;
+}
+button{
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
+}
+.zerobutton{
+  width: 206px;
+}
